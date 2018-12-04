@@ -4,7 +4,7 @@ Reinforcement Learning MOVE37 Course Final Project
 
 DQN 1 vs 1 | DQN 1 vs 2 | DQN 2 vs 1
 :---------:|:----------:|:-----------:
-![](tests/dqn_1vs1/dqn_1vs1.gif "DQN 1 vs 1") | ![](tests/dqn_1vs2/dqn_1vs2.gif "DQN 1 vs 2") | ![](tests/dqn_2vs1/dqn_2vs1.gif "DQN 2 vs 1")
+![](tests/dqn_1vs1.gif "DQN 1 vs 1") | ![](tests/dqn_1vs2.gif "DQN 1 vs 2") | ![](tests/dqn_2vs1.gif "DQN 2 vs 1")
 
 
 # Multi-Agent Particle Environment
